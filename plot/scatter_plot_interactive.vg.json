@@ -149,7 +149,7 @@
         "color": {"value": "black"},
         "opacity": {
           "condition": {
-            "test": "datum['Country_or_region'] == 'China' || datum['Country_or_region'] == 'Singapore' || datum['Country_or_region'] == 'Australia' || datum['Country_or_region'] == 'New Zealand' || datum['Country_or_region'] == 'Italy' || datum['Country_or_region'] == 'Yemen' ||  datum['Country_or_region'] == 'United States'",
+            "test": "datum['Country_or_region'] == 'China' || datum['Country_or_region'] == 'Singapore' || datum['Country_or_region'] == 'Australia' || datum['Country_or_region'] == 'Italy' || datum['Country_or_region'] == 'Yemen' ||  datum['Country_or_region'] == 'United States'",
             "value": 1
           },
           "value": 0
