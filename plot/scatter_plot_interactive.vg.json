@@ -4,7 +4,7 @@
   "height": 450,
   "title": "World Happiness Score (2019)",
   "data": {
-    "url": "https://raw.githubusercontent.com/mariafun/assign/main/data/2019_edit.csv"
+    "url": "https://raw.githubusercontent.com/mariafun/interactive_chart/main/data/2019.csv"
   },
   "params": [
     {
